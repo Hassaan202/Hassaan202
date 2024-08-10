@@ -2,4 +2,4 @@
 
 <p><strong>Skills:</strong> C++ | C | HTML | CSS | JS | BootStrap | Git | Github</p>
 
-<p>I am currently pursuing my Bachelors degree in CS. I am looking forwrd to learning new things.</p>
+<p>I am currently pursuing my Bachelors degree in CS. I am looking forward to learning new things.</p>
