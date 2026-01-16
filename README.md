@@ -5,7 +5,7 @@
 
 ## About Me
 - Currently working on **AI-powered applications**  
-- Interested in **Mobile Development, Deep Learning and  & Cloud Computing**  
+- Interested in **Mobile Development, Deep Learning and Cloud Computing**  
 
 
 ## Skills  
