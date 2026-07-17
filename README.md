@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Muhammad Hassaan Raza  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&width=435&lines=CS+Student+%7C+Software+Developer;AI+Researcher;Learning+About+AI%2FML)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&width=450&lines=Software+Engineer;AI+Researcher;RAG+%26+Agentic+Workflows)](https://git.io/typing-svg)
 
 ## About Me
 - Currently working on **AI-powered applications**  
@@ -10,6 +10,9 @@
 ## Skills  
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3A?style=for-the-badge&logo=langchain&logoColor=61DAFB)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=for-the-badge&logo=ai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-6E57E0?style=for-the-badge&logo=database&logoColor=white)
